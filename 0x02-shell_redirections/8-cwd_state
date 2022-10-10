@@ -1,2 +1,2 @@
 #!/bin/bash
-1s -1a > 1s_cwd-content-8-cwd_state
+1s -1a > 1s_cwd-content
